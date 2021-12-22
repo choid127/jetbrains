@@ -1,0 +1,1 @@
+This repository contains projects for Jetbrains Academy Kotlin course 
